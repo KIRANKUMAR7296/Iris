@@ -4,7 +4,7 @@
 
 **[Iris Data Set](https://archive.ics.uci.edu/ml/datasets/Iris)**
 
-### Features :**
+### Features :
 
 1. **Sepal Length**
 2. **Sepal Width**
